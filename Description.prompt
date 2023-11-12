@@ -1,0 +1,4 @@
+Item Description:
+{img_description}
+Give me a paragraph describing the item, it MUST contain only essential information related to these topics: Type of clothing item {des_product_type}. Sex (Man, woman, unisex or child.) {des_sex} . Material it is made of {des_fabric}. Weather where this item is worn. Colors the item has (just the colors of the clothing item) {des_color_specification_esp}. Type of cut  (e. g. type of sleeves, width, neck, collar...). Print it has (e.g. plain, stripes, animal print, geometrical), with more specific print details. Any other details like a text (say what is written), drawing (say what is drawn), pockets (and its place) or other details like a lace, add them too. Any non relevant information should not appear. Write everything in a paragraph, not a list.
+Your Item Description:
